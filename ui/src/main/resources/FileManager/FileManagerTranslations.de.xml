@@ -68,7 +68,7 @@ contrib.FM.description=Datei-Beschreibung
 contrib.FM.noDescription=Für diese Datei ist keine Beschreibung verfügbar.
 contrib.FM.noAttachment=An dieser Seite ist keine Datei angehängt. Sie können eine Datei anhängen, indem Sie auf „Bearbeiten“ klicken oder die Datei direkt unter  „Anhänge“ hochladen.
 contrib.FM.editDescription=Speichern und Ansehen
-### Missing: contrib.FM.change.explanations=You can manage the file(s) to attach to this document using the "Attachments" section below. You can also tag this document with the application at the bottom of this section, so it would be easier to find it.
+contrib.FM.change.explanations=Sie können die Datei(en), die an dieses Dokument angehängt werden sollen, im Abschnitt "Anhänge" unten verwalten. Sie können dieses Dokument auch mit der Anwendung unten in diesem Abschnitt kennzeichnen, damit es leichter zu finden ist.
 
 rendering.macro.filetagcloud.name=Tag-Wolke des Datei-Managers
 rendering.macro.filetagcloud.description=Zeigt die Datei-Tags als Wolke an, entweder in diesem Wiki oder im angegebenen Bereich an, falls angegeben.
